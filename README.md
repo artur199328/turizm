@@ -1,0 +1,2 @@
+# turizm
+python
